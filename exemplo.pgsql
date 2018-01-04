@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS PRODUCT;
+
+CREATE TABLE PRODUCT (
+	name varchar (1350) NOT NULL
+);
+
+INSERT INTO PRODUCT (name) VALUES ('Portátil Híbrido 12.3 MICROSOFT Surface Pro i5 4-128+Capa Teclado');
+ 
